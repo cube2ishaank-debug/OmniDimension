@@ -1,4 +1,5 @@
-# Binaural Spatial Audio Engine
+# OmniDirection
+### Binaural Spatial Audio Engine
 
 A Python-based digital signal processing (DSP) prototype that turns stereo audio into immersive 3D spatial audio for headphones without external spatial audio frameworks.
 
