@@ -19,3 +19,7 @@ A Python-based digital signal processing (DSP) prototype that turns stereo audio
 │ <br>
 ▼ <br>
 [16-bit WAV Export] ◄── [Peak Normalization] ◄── [Multi-Tap Reverb + LPF]
+
+## Coming Soon
+
+A collection of 'input-output' audio files to exemplify the code's effect on audio files. (Please Listen Through Headphones)
